@@ -32,6 +32,7 @@ Neem eigen beddengoed en handdoeken mee. Op vrijdagavond zorgen Bibi en ik dat e
 
 In de buurt zijn de [grotten van Han](http://www.grotte-de-han.be/nl). Andere suggesties voor animatie en gezelligheid gaarne delen.
 
-De boekingsinformatie van Airbnb vind je [hier](https://github.com/witusj/ardennen/blob/master/Airbnb%20info.pdf).
+De boekingsinformatie van Airbnb vind je [hier](https://github.com/witusj/ardennen/blob/master/Airbnb%20info.pdf). 
+Het bedrag per persoon is 55 EUR. Als je mijn rekeningnummer wilt hebben: app me even op 0630179522.
 
 -- Witek
