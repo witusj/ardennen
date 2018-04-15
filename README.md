@@ -26,7 +26,7 @@ Van vrijdag 8 tot zondag 10 juni hebben we deze [plek](https://www.airbnb.com/ro
     Durbuy, Région wallonne 6940
     België
 
-![kaart](https://github.com/witusj/ardennen/blob/master/kaart.png)
+[![kaart](https://github.com/witusj/ardennen/blob/master/kaart.png)](https://goo.gl/maps/itNpkFGMUHx)
 
 Neem eigen beddengoed en handdoeken mee. Op vrijdagavond zorgen Bibi en ik dat er soep en brood is. Neem wat mee voor 's avonds snacken en het ontbijt op zaterdag. Boodschappen voor avondeten en zondag kunnen we in Barvaux doen.
 
