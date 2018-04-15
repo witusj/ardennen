@@ -22,11 +22,9 @@
 
 Van vrijdag 8 tot zondag 10 juni hebben we deze [plek](https://www.airbnb.com/rooms/8346282) tot onze beschikking, adres:
 
-> Chemin des Sangliers 9
-
-> Durbuy, Région wallonne 6940
-
-> België
+    Chemin des Sangliers 9
+    Durbuy, Région wallonne 6940
+    België
 
 ![kaart](https://github.com/witusj/ardennen/blob/master/kaart.png)
 
