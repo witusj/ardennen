@@ -28,7 +28,10 @@ Van vrijdag 8 tot zondag 10 juni hebben we deze [plek](https://www.airbnb.com/ro
 
 ![kaart](https://github.com/witusj/ardennen/blob/master/kaart.png)
 
-Neem eigen beddengoed en handdoeken mee. Op vrijdagavond zorgen Bibi en ik dat er soep en brood is. Als iedereen wat drinken en snacks meebrengt, komen we de avond gezellig door. Voor het ontbijt op zaterdag gelieve ook wat mee te brengen voor het Boodschappen kunnen we op zaterdag in Barvaux doen. Daar zijn een aantal supermarkten (Carrefour, etc.) 
+Neem eigen beddengoed en handdoeken mee. Op vrijdagavond zorgen Bibi en ik dat er soep en brood is. Neem wat mee voor 's avonds snacken en het ontbijt op zaterdag. Boodschappen voor avondeten en zondag kunnen we in Barvaux doen.
 
+In de buurt zijn de [grotten van Han](http://www.grotte-de-han.be/fr). Andere suggesties voor animatie en gezelligheid gaarne delen.
 
-De boekingsinformatie van Airbnb vind je [hier](https://github.com/witusj/ardennen/blob/master/Airbnb%20info.pdf)
+De boekingsinformatie van Airbnb vind je [hier](https://github.com/witusj/ardennen/blob/master/Airbnb%20info.pdf).
+
+-- Witek
