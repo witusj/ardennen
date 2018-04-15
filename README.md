@@ -20,7 +20,7 @@
 
 [We gaan naar de Ardennen!](https://youtu.be/7SDOQwSkR_0)
 
-Van vrijdag 8 tot zondag 10 juni hebben we deze [plek](https://www.airbnb.com/rooms/8346282) tot onze beschikking, adres:
+Van vrijdag 8 tot zondag 10 juni hebben we deze [plek](https://www.airbnb.com/rooms/8346282) tot onze beschikking:
 
     Chemin des Sangliers 9
     Durbuy, Région wallonne 6940
